@@ -31,16 +31,16 @@ Sistem ini dirancang untuk meningkatkan efisiensi pelayanan, mengurangi antrian,
 ## 📸 Screenshot Aplikasi
 
 ### Scan QR Code
-![Scan QR](public/images/Qris.png)
+![Scan QR](public/images/qris.png)
 
 ### Halaman Menu Pelanggan
-![Menu Pelanggan](public/images/Table.png)
+![Menu Pelanggan](public/images/table.png)
 
 ### Halaman Keranjang
-![Keranjang](public/images/Keranjang.png)
+![Keranjang](public/images/keranjang.png)
 
 ### Halaman Pembayaran Qris
-![Pembayaran-qris](public/images/Pembayaran-qris.png)
+![Pembayaran-qris](public/images/pembayaran-qris.png)
 
 ### Halaman Konfirmasi Pesanan
-![Konfirmasi Pesanan](public/images/Konfirmasi-pesanan.png)
+![Konfirmasi Pesanan](public/images/konfirmasi-pesanan.png)
