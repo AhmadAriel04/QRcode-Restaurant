@@ -1,9 +1,6 @@
-![Laravel](https://img.shields.io/badge/Laravel-12.35.1-red?logo=laravel)
-![PHP](https://img.shields.io/badge/PHP-8.2-blue?logo=php)
-![MySQL](https://img.shields.io/badge/MySQL-Database-orange?logo=mysql)
-![Vite](https://img.shields.io/badge/Vite-Build-yellow?logo=vite)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3-blue?logo=tailwindcss)
 
+<p>Link Jurnal untuk project Ini:</p>
+<p>https://drive.google.com/drive/folders/1wkWYub0TVxaKEZjrhB-ajxi7-z84DHg0?usp=drive_link</p>
 # 🍽️ Restaurant QR Order System
 
 Sistem **Restaurant QR Order** adalah aplikasi berbasis web yang memungkinkan pelanggan melakukan pemesanan makanan dan minuman dengan cara **scan QR Code** langsung dari meja tanpa perlu aplikasi tambahan.  
